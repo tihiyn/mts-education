@@ -1,3 +1,5 @@
+package dto;
+
 import java.math.BigDecimal;
 
 // класс, содержащий итоговые суммы
